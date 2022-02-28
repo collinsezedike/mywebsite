@@ -1,8 +1,9 @@
 body {
-    background-color: #eeeeee;
+    background-color: black;
     color: #40514E;
     font-family: 'Merriweather', serif;
     margin: 0;
+    padding: 0;
     text-align: center;
 }
 
@@ -38,9 +39,7 @@ hr {
 
 .top-container {
     background-color: #C2E2F5;
-    padding-top: 100px;
     width: 100%;
-    margin: 0 auto;
 }
 
 .middle-container {
